@@ -1,0 +1,59 @@
+{ "videos": [
+        {
+            "id": 1,
+            "titulo": "¿Cuándo usar let, var y const?",
+            "categoria": "frontend",
+            "link": "https://www.youtube.com/embed/PztCEdIJITY?si=C9Cw7wac5L56VSaB"
+        },
+        {
+            "id": 2,
+            "titulo": "¿Qué es javascript?",
+            "categoria": "frontend",
+            "link": "https://www.youtube.com/embed/GJfOSoaXk4s?si=BGfUPXKL_LbkEJra"
+        },
+        {
+            "id": 3,
+            "titulo": "Equipo Front End",
+            "categoria": "frontend",
+            "link": "https://www.youtube.com/embed/rpvrLaBQwgg?si=8-l5fp6NDOWjzRGZ"
+        },
+        {
+            "id": 4,
+            "titulo": "Spring framework",
+            "categoria": "backend",
+            "link": "https://www.youtube.com/embed/t-iqt1b2qqk?si=rMyBEkCpkuFrGxne"
+        },
+        {
+            "id": 5,
+            "titulo": "¿Qué es sql y nosql?",
+            "categoria": "backend",
+            "link": "https://www.youtube.com/embed/cLLKVd5CNLc?si=LExHttU_-y8_rRII"
+        },
+        {
+            "id": 6,
+            "titulo": "Conoce los enum",
+            "categoria": "backend",
+            "link": "https://www.youtube.com/embed/EoPvlE85XAQ?si=vIGtPSnfpZMVyGkc"
+        },
+        {
+            "id": 7,
+            "titulo": "¿Qué son las soft skills?",
+            "categoria": "innovacion",
+            "link": "https://www.youtube.com/embed/vhwspfvI52k?si=wDciUUKbdRtpESN1"
+        },
+        {
+            "id": 8,
+            "titulo": "Las 7 soft skills más deseadas",
+            "categoria": "innovacion",
+            "link": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=ZIYWW3gIglel4u4_"
+        },
+        {
+            "id": 9,
+            "titulo": "Metodologías ágiles",
+            "categoria": "innovacion",
+            "link": "https://www.youtube.com/embed/6N3OkLCfK-0?si=AA2K2bFfpzMOSkmY"
+        }
+    ]
+
+
+}
